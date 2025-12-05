@@ -1,0 +1,38 @@
+# LinkedIn cookies (contains sensitive session data)
+linkedin_cookies.json
+
+# Output files
+linkedin_output.txt
+
+# Debug files
+debug.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Playwright
+.pytest_cache/
+test-results/
+playwright-report/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
